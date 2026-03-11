@@ -1,2 +1,3 @@
 discord.py
-request
+requests
+python-dotenv
